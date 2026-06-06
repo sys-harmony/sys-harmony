@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Grégory !
 
-**Low-Level & Systems Engineer 💻 | C (Fluent), C++98 (Proficient), Go (Learning)**
+**Low-Level & Systems Engineer 💻 | C (Fluent), C++98 (Proficient)**
 
-🎓 **Student at 42 Mulhouse** | 📍 Based in Colmar, France (Mobile & Remote-ready)
+🎓 **Student at 42 Mulhouse** | 📍 Based in France — **Open to Relocation (France, DACH Region, Worldwide) & Remote**
 
 🚀 **Open to Internship or Alternance (Apprenticeship) — Starting Fall 2026**
 
@@ -36,6 +36,13 @@ Why hire a former pianist for low-level software engineering?
 
 ---
 
+## 🌍 Spoken Languages & Communication
+- **French:** Native
+- **German:** Fluent / Full Professional Proficiency (DACH region ready)
+- **English:** Professional Working Proficiency (Strong technical comprehension & written communication)
+
+---
+
 ## 🚀 Personal Engineering & Tools
 *Initiatives and custom projects built outside the 42 curriculum.*
 
@@ -48,7 +55,7 @@ Why hire a former pianist for low-level software engineering?
 *Selected projects from the 42 syllabus, all validated with the maximum possible score, demonstrating low-level mastery and robust architecture.*
 
 ### ⚙️ Systems & Optimization
-- **[Philosophers](https://github.com/sys-harmony/42_philosophers):** Solved the classic dining philosophers problem using threads and mutexes,as well as processes and semaphores, optimizing for data races and CPU usage.
+- **[Philosophers](https://github.com/sys-harmony/42_philosophers):** Solved the classic dining philosophers problem using threads and mutexes, as well as processes and semaphores, optimizing for data races and CPU usage.
 - **[Minishell](https://github.com/Blaeste/42_minishell):** Rebuilt a bash-like shell from scratch in C (parsing, AST, process creation, signals).
 
 ### 🎮 Graphics & Math
@@ -67,7 +74,7 @@ Why hire a former pianist for low-level software engineering?
 ---
 
 ## ⚡ Current Quests
-- Looking for a **6-month internship or an Alternance (Work-study program)** as a **Backend Systems Engineer, Game Network/Multiplayer Programmer or Low-Level/Security Software Engineer** — C/C++, and whatever the stack requires.
+- Looking for a **6-month internship or an Alternance (Work-study program)** as a **Backend/Systems Engineer or Low-Level Software Engineer** — C/C++, and whatever the stack requires.
 
 📫 **Let's connect:**
 * LinkedIn: [Gregory Dosch](https://linkedin.com/in/gregorydosch)
